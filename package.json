@@ -52,7 +52,7 @@
   "dependencies": {
     "@solana/web3.js": "^0.80.2",
     "buffer-layout": "^1.2.0",
-    "dotenv": "8.2.0",
+    "dotenv": "8.6.0",
     "json-to-pretty-yaml": "^1.2.2",
     "mkdirp": "^1.0.4",
     "mz": "^2.7.0"
